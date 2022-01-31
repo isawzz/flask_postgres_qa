@@ -1,0 +1,13 @@
+env/
+.git
+.vscode
+.idea
+pylibs/
+zdata/
+_codeRemoved
+*__pycache__*
+__pycache__/
+saves/
+*.pyc
+base/
+front/
